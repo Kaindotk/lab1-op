@@ -1,0 +1,14 @@
+C:\MishaCode\OsnovyLab1\OsnovyLab1\bin\Debug\net8.0\OsnovyLab1.exe
+C:\MishaCode\OsnovyLab1\OsnovyLab1\bin\Debug\net8.0\OsnovyLab1.deps.json
+C:\MishaCode\OsnovyLab1\OsnovyLab1\bin\Debug\net8.0\OsnovyLab1.runtimeconfig.json
+C:\MishaCode\OsnovyLab1\OsnovyLab1\bin\Debug\net8.0\OsnovyLab1.dll
+C:\MishaCode\OsnovyLab1\OsnovyLab1\bin\Debug\net8.0\OsnovyLab1.pdb
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.AssemblyInfoInputs.cache
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.AssemblyInfo.cs
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.csproj.CoreCompileInputs.cache
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.dll
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\refint\OsnovyLab1.dll
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.pdb
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\OsnovyLab1.genruntimeconfig.cache
+C:\MishaCode\OsnovyLab1\OsnovyLab1\obj\Debug\net8.0\ref\OsnovyLab1.dll
